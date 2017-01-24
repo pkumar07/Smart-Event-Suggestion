@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Event Suggestion</string>
+    <string name="facebook_app_id">555696917955759</string>
+    <string name="fb_login_protocol_scheme">fb1725400404441543</string>
+</resources>
